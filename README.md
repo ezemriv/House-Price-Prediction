@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Python-white?logo=Python" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=250458" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=013243" style="height: 25px; width: auto;">  <img src="https://img.shields.io/badge/Scikit_learn-white?logo=scikitlearn&logoColor=F7931E" style="height: 25px; width: auto;">
+
 # House Price Prediction - Kaggle Competition
 
 This repository contains the notebook and data used for a house price prediction competition on Kaggle.
@@ -6,9 +8,9 @@ This repository contains the notebook and data used for a house price prediction
 
 The included dataset has been carefully cleaned to ensure its quality for modeling. This involved handling missing values, outliers, and any other inconsistencies that could impact the model's performance.
 
-## XGBoost Model
+## Models
 
-I implemented an XGBoost model to predict house prices based on the features in the dataset. XGBoost is a powerful machine learning algorithm well-suited for this type of regression task.
+I implemented Catboost and XGBoost models to predict house prices based on the features in the dataset.
 
 ## Results
 
